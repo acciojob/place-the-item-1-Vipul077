@@ -23,7 +23,7 @@
 	background-color: blue;
 }
 
-.flex-box-1{
+.holder{
 	display: flex;
 	padding-right: 10px;
 	font-size: 50px;
